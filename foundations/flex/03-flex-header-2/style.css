@@ -32,7 +32,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  align-self: flex-start;
 }
 
 button {
@@ -53,6 +52,5 @@ ul {
   padding: 0;
   list-style-type: none;
   display: flex;
-  align-self: flex-start;
   gap: 16px;
 }
