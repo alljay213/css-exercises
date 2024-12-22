@@ -51,4 +51,5 @@ ul {
   list-style-type: none;
   display: flex;
   align-self: flex-start;
+  gap: 8px;
 }
