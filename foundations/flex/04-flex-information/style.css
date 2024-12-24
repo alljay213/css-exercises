@@ -16,6 +16,11 @@ img {
   display: flex;
 }
 
+.card {
+  align-items: center;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
