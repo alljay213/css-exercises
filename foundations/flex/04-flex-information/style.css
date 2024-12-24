@@ -24,6 +24,7 @@ img {
 .card {
   align-items: center;
   text-align: center;
+  width: 200px;
 }
 
 /* do not edit this footer */
