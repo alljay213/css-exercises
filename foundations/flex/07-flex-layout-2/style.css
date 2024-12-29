@@ -33,6 +33,7 @@ ul li {
 }
 
 a {
+  font-size: 24px;
   text-decoration: none;
   color: #fff;
 }
@@ -57,6 +58,7 @@ a {
   flex-shrink: 0;
   background: royalblue;
   box-sizing: border-box;
+  padding: 16px;
 }
 
 .card {
